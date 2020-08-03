@@ -1,0 +1,14 @@
+C:\Users\Murilo Barros\Desktop\FIPP\2019 - 1 semestre\LP4\2 bim\Conteúdo Ava - 2 bimestre\Survey-Grafico\SurveyWeb\bin\Debug\netcoreapp2.0\SurveyWeb.deps.json
+C:\Users\Murilo Barros\Desktop\FIPP\2019 - 1 semestre\LP4\2 bim\Conteúdo Ava - 2 bimestre\Survey-Grafico\SurveyWeb\bin\Debug\netcoreapp2.0\SurveyWeb.runtimeconfig.json
+C:\Users\Murilo Barros\Desktop\FIPP\2019 - 1 semestre\LP4\2 bim\Conteúdo Ava - 2 bimestre\Survey-Grafico\SurveyWeb\bin\Debug\netcoreapp2.0\SurveyWeb.runtimeconfig.dev.json
+C:\Users\Murilo Barros\Desktop\FIPP\2019 - 1 semestre\LP4\2 bim\Conteúdo Ava - 2 bimestre\Survey-Grafico\SurveyWeb\bin\Debug\netcoreapp2.0\SurveyWeb.dll
+C:\Users\Murilo Barros\Desktop\FIPP\2019 - 1 semestre\LP4\2 bim\Conteúdo Ava - 2 bimestre\Survey-Grafico\SurveyWeb\bin\Debug\netcoreapp2.0\SurveyWeb.pdb
+C:\Users\Murilo Barros\Desktop\FIPP\2019 - 1 semestre\LP4\2 bim\Conteúdo Ava - 2 bimestre\Survey-Grafico\SurveyWeb\bin\Debug\netcoreapp2.0\Survey.dll
+C:\Users\Murilo Barros\Desktop\FIPP\2019 - 1 semestre\LP4\2 bim\Conteúdo Ava - 2 bimestre\Survey-Grafico\SurveyWeb\bin\Debug\netcoreapp2.0\Survey.pdb
+C:\Users\Murilo Barros\Desktop\FIPP\2019 - 1 semestre\LP4\2 bim\Conteúdo Ava - 2 bimestre\Survey-Grafico\SurveyWeb\obj\Debug\netcoreapp2.0\SurveyWeb.csprojAssemblyReference.cache
+C:\Users\Murilo Barros\Desktop\FIPP\2019 - 1 semestre\LP4\2 bim\Conteúdo Ava - 2 bimestre\Survey-Grafico\SurveyWeb\obj\Debug\netcoreapp2.0\SurveyWeb.csproj.CoreCompileInputs.cache
+C:\Users\Murilo Barros\Desktop\FIPP\2019 - 1 semestre\LP4\2 bim\Conteúdo Ava - 2 bimestre\Survey-Grafico\SurveyWeb\obj\Debug\netcoreapp2.0\SurveyWeb.AssemblyInfoInputs.cache
+C:\Users\Murilo Barros\Desktop\FIPP\2019 - 1 semestre\LP4\2 bim\Conteúdo Ava - 2 bimestre\Survey-Grafico\SurveyWeb\obj\Debug\netcoreapp2.0\SurveyWeb.AssemblyInfo.cs
+C:\Users\Murilo Barros\Desktop\FIPP\2019 - 1 semestre\LP4\2 bim\Conteúdo Ava - 2 bimestre\Survey-Grafico\SurveyWeb\obj\Debug\netcoreapp2.0\SurveyWeb.csproj.CopyComplete
+C:\Users\Murilo Barros\Desktop\FIPP\2019 - 1 semestre\LP4\2 bim\Conteúdo Ava - 2 bimestre\Survey-Grafico\SurveyWeb\obj\Debug\netcoreapp2.0\SurveyWeb.dll
+C:\Users\Murilo Barros\Desktop\FIPP\2019 - 1 semestre\LP4\2 bim\Conteúdo Ava - 2 bimestre\Survey-Grafico\SurveyWeb\obj\Debug\netcoreapp2.0\SurveyWeb.pdb
